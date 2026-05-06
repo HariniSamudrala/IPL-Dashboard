@@ -3,19 +3,20 @@
 
 IPL 2022 Performance Analysis Dashboard
 
-📌 2. Short Description / Purpose
+ 2. Short Description / Purpose
 
 An interactive Power BI dashboard built to analyze IPL 2022 match data, focusing on team performance, toss impact, scoring patterns, and venue-based insights to support data-driven analysis.
 
-🛠️ 3. Tech Stack
+ 3. Tech Stack
 Power BI
 Power Query (ETL)
 DAX (KPIs & Measures)
 Excel
 
-📂 4. Data Source
+4. Data Source
 IPL 2022 dataset (Excel file – match-wise data including teams, scores, toss, venue, and players)
-🚀 5. Features / Highlights
+
+ 5. Features / Highlights
 🔹 Business Problem
 
 Understanding factors affecting match outcomes such as toss decisions, scoring trends, and team performance.
